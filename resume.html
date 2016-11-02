@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>h5</title>
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"/>
+    <link rel="stylesheet" href="css/reset.min.css"/>
+    <link rel="stylesheet" href="css/swiper.min.css"/>
+    <link rel="stylesheet" href="css/animate.css"/>
+    <link rel="stylesheet" href="css/resume.css"/>
+    <script>
+        //移动适配-设置各个设备根元素字体大小
+        var desW = 640;
+        var winW = document.documentElement.clientWidth;
+        var desWfontSize = 100;
+        document.documentElement.style.fontSize = winW/desW*desWfontSize+"px";
+    </script>
+</head>
+<body>
+<div id="main">
+    <div class="music">
+        <audio src="audio/pfzl.mp3" loop preload="none" id="music"></audio>
+    </div>
+    <div class="swiper-container">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide slide1">
+                <img src="img/swiper/icon_up.png" alt="" class="top">
+                <img src="img/swiper/person-resume.png" alt="">
+            </div>
+            <div class="swiper-slide slide2">
+                <img src="img/swiper/icon_up.png" alt="" class="top">
+                <p>#个人信息#</p>
+                <p>姓名：张美聪</p>
+                <p>性别：女</p>
+                <p>原籍：河北·廊坊</p>
+                <p>现居地：北京市昌平区</p>
+                <p>学历：本科</p>
+                <p>专业：13信息管理与信息系统</p>
+                <p>院校：华北理工大学轻工学院</p>
+            </div>
+            <div class="swiper-slide slide3">
+                <img src="img/swiper/icon_up.png" alt="" class="top">
+                <p>#技能介绍#</p>
+                <img src="img/swiper/page3-text1.jpg" alt="html">
+                <img src="img/swiper/page3-text2.jpg" alt="css">
+                <img src="img/swiper/page3-text3.jpg" alt="ajax">
+                <img src="img/swiper/page3-text4.jpg" alt="js">
+                <img src="img/swiper/page3-text5.jpg" alt="jq">
+                <img src="img/swiper/page3-text6.jpg" alt="angular">
+                <img src="img/swiper/page3-text7.jpg" alt="hand">
+                <img src="img/swiper/page3-text8.png" alt="圈">
+                <img src="img/swiper/page3-text6.png" alt="node">
+            </div>
+            <div class="swiper-slide slide4">
+                <img src="img/swiper/icon_up.png" alt="" class="top">
+                <div>
+                <p>精通DIV+CSS，考虑多浏览器的兼容性；熟悉HTML5+CSS3；</p>
+                <p>掌握javascript语言：用原生JS写过DOM库，动画库，事件库，Ajax等；熟悉jQuery,less,zepto等框架;</p>
+                <p>能够使用JavaScript/jQuery实现页面交互；熟悉使用NodeJs、AngularJs、Bootstrap、React;</p>
+                <p>熟练使用photoshop进行切图，以及对图片进行其他简单处理</p>
+                <p>了解订阅发布等设计模式</p>
+                <p>能熟练使用github管理项目</p>
+                </div>
+            </div>
+            <div class="swiper-slide slide5">
+                <img src="img/swiper/icon_up.png" alt="" class="top">
+                <img src="img/swiper/circle.png" alt="">
+                <img src="img/swiper/me.png" alt="">
+                <p>#求职意向#</p>
+                <p>~前端工程师~</p>
+                <span>踏实</span>
+                <span>认真</span>
+                <span>爱学习</span>
+                <span>爱玩爱沟通</span>
+                <span>90后</span>
+                <span>2016.12，我们一起工作吧</span>
+            </div>
+            <div class="swiper-slide slide6">
+                <img src="img/swiper/icon_up.png" alt="" class="top">
+                <p>#联系方式#</p>
+                <p><img src="" alt="">电话：15230931787</p>
+                <p><img src="" alt="">QQ：1104509504</p>
+                <p><img src="" alt="">微信：zmc9504</p>
+                <p><img src="" alt="">E-mail：1104509504@qq.com</p>
+                <img src="img/swiper/ewm.png" alt="">
+                <p>谢谢观看！</p>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
+<script src="js/swiper.min.js"></script>
+<script>
+    var mySwiper = new Swiper(".swiper-container",{
+        direction:"vertical",
+        loop : true,
+        onSlideChangeEnd :function(swiper){
+            var slides = swiper.slides;
+            var curIndex = swiper.activeIndex;
+            var trueSlideNum = slides.length-2;
+            var lastSlideNum  = trueSlideNum+1;
+            [].forEach.call(slides,function(item,index){
+                item.id = "";
+                if(index == curIndex){
+                    switch (index){
+                        case 0 :
+                            item.id = "page"+ trueSlideNum;
+                            break;
+                        case lastSlideNum :
+                            item.id = "page1";
+                            break;
+                        default  :
+                            item.id = "page"+curIndex;
+                    }
+                }
+            })
+
+        },
+        onInit : function(swiper){
+        }
+    });
+    var beyond = document.querySelector("#music");
+    var music = document.querySelector(".music");
+    window.setTimeout(function(){
+        beyond.play();
+        beyond.addEventListener("canplay",function(){
+            music.className = "music musicMove";
+            music.style.opacity = 1;
+        })
+
+    },1000);
+    music.addEventListener("click",function(){
+        if(beyond.paused){
+            beyond.play();
+            music.className = "music musicMove";
+        }else{
+            beyond.pause();
+            music.className = "music";
+        }
+    })
+
+</script>

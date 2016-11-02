@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27c149ff-c1ab-4d65-966b-d8f1bc6e1416" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CUBE.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/audio/bell.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/audio/music.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/audio/say.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_concatAddress.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_concatInfo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_concatPhone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_course.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_course1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_course2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_course3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_course4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_course5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_course6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_cube1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_cube2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_cube3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_cube4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_cube5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_cube6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_cubeBg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_cubeTip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_emploment.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_messageArrow1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_messageArrow2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_messageChat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_messageKeyboard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_messageLogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_messageStudent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_outline.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_phoneBg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_phoneDetail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_phoneListen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_phoneLogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_return.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_style1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_style2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_style3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_styleTip1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_styleTip2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_teacher1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_teacher2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_teacher3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_teacher4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_teacher5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_teacher6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/zf_teacherTip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/makisu.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/zepto.min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/animate.css" afterPath="$PROJECT_DIR$/css/animate.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/reset.min.css" afterPath="$PROJECT_DIR$/css/reset.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/swiper.min.css" afterPath="$PROJECT_DIR$/css/swiper.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/swiper.min.js" afterPath="$PROJECT_DIR$/js/swiper.min.js" />
+    </list>
+    <ignored path="resume.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="resume" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="resume.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/resume.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.23948811">
+              <caret line="219" column="13" selection-start-line="219" selection-start-column="13" selection-end-line="219" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="resume.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resume.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="14.222222">
+              <caret line="61" column="38" selection-start-line="61" selection-start-column="38" selection-end-line="61" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/reset.min.css" />
+        <option value="$PROJECT_DIR$/resume.html" />
+        <option value="$PROJECT_DIR$/css/resume.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resume" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resume" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resume" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27c149ff-c1ab-4d65-966b-d8f1bc6e1416" name="Default" comment="" />
+      <created>1478067128938</created>
+      <option name="number" value="Default" />
+      <updated>1478067128938</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16964285" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="593.7778">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/reset.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.8888889">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="14.222222">
+          <caret line="61" column="38" selection-start-line="61" selection-start-column="38" selection-end-line="61" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/resume.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23948811">
+          <caret line="219" column="13" selection-start-line="219" selection-start-column="13" selection-end-line="219" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
