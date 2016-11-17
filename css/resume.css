@@ -67,7 +67,7 @@ html,body{
     font-size: 0.3rem;
     padding: 0.02rem;
 }
-.slide2 p:nth-child(2),.slide3 p:nth-child(2),.slide5 p:nth-child(4),.slide6 p:nth-child(2){
+.slide2 p:nth-child(2),.slide3 p:nth-child(2),.slide5 p:nth-child(4),.slide6 p:nth-child(2),.slide4 div p:nth-child(1){
     font-size: 0.5rem;
     color: red;
 }
@@ -209,7 +209,7 @@ html,body{
     font-size: 0.5rem;
     color: orangered;
 }
-.slide5 span,.slide6 p:nth-child(2),.slide6 p:nth-child(8){
+.slide5 span,.slide6 p:nth-child(2),.slide6 p:nth-child(8),.slide4 div p:nth-child(1){
     margin: 0.1rem 0.03rem 0.03rem ;
     height:.7rem;
     line-height: .7rem;
@@ -251,7 +251,7 @@ html,body{
 }
 .slide5 span:nth-child(11){
     left:0.3rem;
-    top:7.5rem;
+    top:6.5rem;
     color: gold;
     padding: 0.1rem;
     font-weight: bold;
@@ -263,7 +263,7 @@ html,body{
 }
 .slide6 img:nth-child(7){
     left:3.3rem;
-    bottom: 2.5rem;
+    top: 5.3rem;
     width: 2.5rem;
     height: 3.5rem;
 }
@@ -351,8 +351,8 @@ html,body{
     animation:bounceIn 1s 2.1s 1 both;
 }
 #page3 :nth-child(10){
-    -webkit-animation:move 3s 1s 1 both ;
-    animation:move 3s 0s 1 both;
+    -webkit-animation:rotateIn  3s 1s 1 both ;
+    animation:rotateIn  3s 0s 1 both;
 }
 #page3 :nth-child(11){
     -webkit-animation:zoomOut 1.2s 2.1s 1 both;
@@ -363,6 +363,11 @@ html,body{
     -webkit-animation:fadeInDown 2s 0s 1 both;
     animation:fadeInDown 2s 0s 1 both;
 }
+#page4 div p:nth-child(1) {
+     -webkit-animation: zoomIn 1s 0s 1 both;
+    animation: zoomIn 1s 0s 1 both;
+}
+
 /*page5*/
 #page5 img:nth-child(2){
     -webkit-animation:rotateIn 2s 0s 1 both;
@@ -437,8 +442,8 @@ html,body{
 
 /*music*/
 .music{
-    width: 0.8rem;
-    height: 0.8rem;
+    width: 0.5rem;
+    height: 0.5rem;
     position: absolute;
     top: 0.2rem;
     right: 0.2rem;
@@ -448,8 +453,11 @@ html,body{
     opacity: 0;
 }
 .musicMove{
-    -webkit-animation: move 1s infinite linear both;
-    animation: move 1s infinite linear both;
+    -moz-animation:move 1s infinite linear both;
+    -webkit-animation:move 1s infinite linear both;
+    -o-animation:move 1s infinite linear both;
+    animation:move 1s infinite linear both;
+    /*animation:zoomIn 1s infinite linear both;*/
 }
 @keyframes move {
     0%{
