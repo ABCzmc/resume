@@ -58,7 +58,7 @@ html,body{
     bottom: 1.2rem;
 }
 
-.slide2 p,.slide3 p,.slide6 p{
+.slide2 p,.slide3 p,.slide6 p/*,.slide5 .address b*/{
     margin: 0.1rem 0.03rem 0.03rem ;
     height:.7rem;
     line-height: .7rem;
@@ -209,6 +209,16 @@ html,body{
     font-size: 0.5rem;
     color: orangered;
 }
+/*.slide5 .address{
+    position: absolute;
+    left:1.5rem;
+    bottom: 1.4rem;
+}*/
+/*.slide5 .address b{
+    color:dodgerblue;
+    font-size: 0.4rem;
+    font-weight:normal
+}*/
 .slide5 span,.slide6 p:nth-child(2),.slide6 p:nth-child(8),.slide4 div p:nth-child(1){
     margin: 0.1rem 0.03rem 0.03rem ;
     height:.7rem;
@@ -250,7 +260,7 @@ html,body{
     color: purple;
 }
 .slide5 span:nth-child(11){
-    left:0.3rem;
+    right:0.4rem;
     top:6.5rem;
     color: gold;
     padding: 0.1rem;
@@ -410,6 +420,10 @@ html,body{
     -webkit-animation:rotateIn 1.5s 1s 1 both;
     animation:rotateIn 1.5s 1s 1 both;
 }
+/*#page5 .address{
+    -webkit-animation:zoomIn 1.5s 1.9s 1 both;
+    animation:fadeIn 1.5s 1.9s 1 both;
+}*/
 
 #page6 :nth-child(2){
     -webkit-animation:swing 1s 0.3s 1 both;
